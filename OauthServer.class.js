@@ -9,7 +9,7 @@ import User from '../models/testuser.model';
 
         OauthServer(){
 
-        //this.OauthToken = new OauthToken();    
+          
         }
 
 
